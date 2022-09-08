@@ -1,0 +1,14 @@
+E:\Visual Studio\repos\Sitecore\Task1\Task1\bin\Debug\Task1.exe.config
+E:\Visual Studio\repos\Sitecore\Task1\Task1\bin\Debug\Task1.exe
+E:\Visual Studio\repos\Sitecore\Task1\Task1\bin\Debug\Task1.pdb
+E:\Visual Studio\repos\Sitecore\Task1\Task1\obj\Debug\Task1.csprojAssemblyReference.cache
+E:\Visual Studio\repos\Sitecore\Task1\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+E:\Visual Studio\repos\Sitecore\Task1\Task1\obj\Debug\Task1.exe
+E:\Visual Studio\repos\Sitecore\Task1\Task1\obj\Debug\Task1.pdb
+E:\Visual Studio\repos\SitecoreApplicationTasks\Task1\Task1\bin\Debug\Task1.exe.config
+E:\Visual Studio\repos\SitecoreApplicationTasks\Task1\Task1\bin\Debug\Task1.exe
+E:\Visual Studio\repos\SitecoreApplicationTasks\Task1\Task1\bin\Debug\Task1.pdb
+E:\Visual Studio\repos\SitecoreApplicationTasks\Task1\Task1\obj\Debug\Task1.csprojAssemblyReference.cache
+E:\Visual Studio\repos\SitecoreApplicationTasks\Task1\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+E:\Visual Studio\repos\SitecoreApplicationTasks\Task1\Task1\obj\Debug\Task1.exe
+E:\Visual Studio\repos\SitecoreApplicationTasks\Task1\Task1\obj\Debug\Task1.pdb

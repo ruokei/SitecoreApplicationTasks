@@ -1,0 +1,7 @@
+E:\Visual Studio\repos\Sitecore\Task2\Task2\bin\Debug\Task2.exe.config
+E:\Visual Studio\repos\Sitecore\Task2\Task2\bin\Debug\Task2.exe
+E:\Visual Studio\repos\Sitecore\Task2\Task2\bin\Debug\Task2.pdb
+E:\Visual Studio\repos\Sitecore\Task2\Task2\obj\Debug\Task2.csprojAssemblyReference.cache
+E:\Visual Studio\repos\Sitecore\Task2\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+E:\Visual Studio\repos\Sitecore\Task2\Task2\obj\Debug\Task2.exe
+E:\Visual Studio\repos\Sitecore\Task2\Task2\obj\Debug\Task2.pdb
